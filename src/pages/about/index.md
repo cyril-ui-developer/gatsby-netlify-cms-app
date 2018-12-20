@@ -22,9 +22,9 @@ developerGroups: |-
 organizers:
   title: Group Organizers
   gallery:
-    - image: /img/organizer-1.jpg
+    - image: /img/0.jpeg
       imageAlt: Tom Cruise
-      name: Tom Cruise
+      name: Cyril
     - image: /img/organizer-2.jpg
       imageAlt: Tom Hanks
       name: Tom Hanks
